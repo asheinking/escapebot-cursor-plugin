@@ -40,6 +40,8 @@ Desktop Connect and [Cursor Cloud Agents](https://cursor.com/agents) are separat
 | `skills/escapebot/SKILL.md` | How the agent should use EscapeBot tools |
 | `assets/logo.png` | Plugin logo (same mark as escape-bot.com) |
 
+Privacy policy: https://escape-bot.com/privacy-policy
+
 ## License
 
 MIT

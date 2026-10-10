@@ -1,6 +1,7 @@
 {
   "name": "escapebot",
-  "version": "1.0.0",
+  "displayName": "EscapeBot for Cursor",
+  "version": "1.0.1",
   "description": "EscapeBot market research for Cursor: Oracle scores, fair value, quotes, screener, and filings. Sign in with your EscapeBot account. Does not place trades.",
   "author": {
     "name": "EscapeBot",
@@ -9,6 +10,7 @@
   "homepage": "https://escape-bot.com",
   "repository": "https://github.com/asheinking/escapebot-cursor-plugin",
   "license": "MIT",
+  "privacyPolicyUrl": "https://escape-bot.com/privacy-policy",
   "keywords": [
     "escapebot",
     "oracle",
