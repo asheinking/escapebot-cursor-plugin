@@ -21,9 +21,10 @@ Research only. EscapeBot does not place trades.
 2. Sign in with an existing EscapeBot account when Cursor opens Connect (OAuth). Billing stays on escape-bot.com. The plugin does not collect payment.
 
 3. Ask things like:
-   - What is the Oracle score for NVDA and why?
-   - What is EscapeBot fair value for AAPL?
-   - Screen profitable large-caps with a high Oracle score
+   - What is the custom forecast for NVDA and what factors support it?
+   - What is EscapeBot's fair value estimate for AAPL?
+   - Screen profitable large-cap stocks using forecast and valuation metrics
+   - What are the latest news stories for NVDA?
 
 ## Auth
 

@@ -1,8 +1,8 @@
 {
   "name": "escapebot",
   "displayName": "EscapeBot for Cursor",
-  "version": "1.0.1",
-  "description": "EscapeBot market research for Cursor: Oracle scores, fair value, quotes, screener, and filings. Sign in with your EscapeBot account. Does not place trades.",
+  "version": "1.0.2",
+  "description": "EscapeBot market research for Cursor: custom stock forecasts, fair value, quotes, news, screener, and filings. Sign in with your EscapeBot account. Does not place trades.",
   "author": {
     "name": "EscapeBot",
     "email": "support@escape-bot.com"
@@ -13,7 +13,7 @@
   "privacyPolicyUrl": "https://escape-bot.com/privacy-policy",
   "keywords": [
     "escapebot",
-    "oracle",
+    "forecast",
     "valuation",
     "stocks",
     "research",
